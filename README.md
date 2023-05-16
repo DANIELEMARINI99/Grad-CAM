@@ -1,4 +1,4 @@
-<a target="_blank" href="https://github.com/DANIELEMARINI99/Grad-CAM/blob/main/Grad_CAM.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/DANIELEMARINI99/Grad-CAM/blob/main/Grad_CAM.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
