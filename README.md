@@ -1,3 +1,7 @@
+<a target="_blank" href="https://github.com/DANIELEMARINI99/Grad-CAM/blob/main/Grad_CAM.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 # Grad-CAM
 
 Gradient-weighted Class Activation Mapping (Grad-CAM) is a class-discriminative localization technique that can generate visual explanations from any CNN-based network without any architectural requirement or re-training.
